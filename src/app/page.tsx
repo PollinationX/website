@@ -69,7 +69,7 @@ export default function Home() {
             rel="noopener noreferrer"
         >
           <h2>
-            Wiki
+            Wiki / developer docs
           </h2>
           <p>
             Integrating PollinationX into your project is simple with our comprehensive developer documentation, which includes step-by-step instructions and APIs for easy access to decentralized storage solutions.
@@ -85,7 +85,7 @@ export default function Home() {
             Website Terms
           </h2>
           <p>
-            Find in-depth information about Next.js features and API.
+
           </p>
         </a>
 
