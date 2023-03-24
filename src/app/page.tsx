@@ -17,10 +17,10 @@ export default function Home() {
         <a href="https://github.com/pollinationx/"
            rel="noopener nofollow noreferrer"
            target="_blank"
-           className="inline-flex items-center px-4 py-2 mr-3 text-xs font-medium text-gray-900 bg-white
-           border border-gray-200 rounded-lg focus:outline-none hover:bg-gray-100 hover:text-blue-700
-           focus:z-10 focus:ring-2 focus:ring-gray-300 dark:focus:ring-gray-500 dark:bg-gray-800 dark:text-gray-400
-           dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700">
+           className="inline-flex items-center px-4 py-2 mr-3 text-xs font-medium
+           border rounded-lg focus:outline-none
+           focus:z-10 focus:ring-2 focus:ring-gray-500 bg-gray-800 text-gray-400
+           border-gray-600 hover:text-white hover:bg-gray-700">
           <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="github" className="w-4 h-4 mr-2"
                role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512">
             <path fill="currentColor"
@@ -34,7 +34,7 @@ export default function Home() {
         <a href="https://testnet.pollinationx.io/"
            rel="noopener nofollow noreferrer"
            target="_blank"
-           className="inline-flex items-center px-4 py-2 mr-3 text-xs font-medium text-gray-900 bg-white border border-gray-200 rounded-lg focus:outline-none hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-2 focus:ring-gray-300 dark:focus:ring-gray-500 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700">
+           className="inline-flex items-center px-4 py-2 mr-3 text-xs font-medium border rounded-lg focus:outline-none focus:z-10 focus:ring-2 focus:ring-gray-500 bg-gray-800 text-gray-400 border-gray-600 hover:text-white hover:bg-gray-700">
           Testnet
         </a>
         </div>
