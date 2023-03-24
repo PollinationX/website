@@ -63,7 +63,7 @@ export default function Home() {
       </div>
       <div className={styles.grid}>
         <a
-            href="https://wiki.pollinaitonx.io"
+            href="https://wiki.pollinationx.io"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
@@ -76,7 +76,7 @@ export default function Home() {
           </p>
         </a>
         <a
-          href="https://github.com/PollinationX/static-assets/raw/main/pdf/2023-02-20_CR_Systems_Website_Terms.pdf"
+          href="https://github.com/immu3-io/static-assets/raw/main/pdf/2023-02-20_CR_Systems_Website_Terms.pdf"
           className={styles.card}
           target="_blank"
           rel="noopener noreferrer"
@@ -90,7 +90,7 @@ export default function Home() {
         </a>
 
         <a
-          href="https://github.com/PollinationX/static-assets/raw/main/pdf/2023-02-20_CR_Systems_Privacy_Policy.pdf"
+          href="https://github.com/immu3-io/static-assets/raw/main/pdf/2023-02-20_CR_Systems_Privacy_Policy.pdf"
           className={styles.card}
           target="_blank"
           rel="noopener noreferrer"
