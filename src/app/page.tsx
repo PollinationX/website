@@ -33,7 +33,7 @@ export default function Home() {
             rel="noopener noreferrer"
         >
           <h2>
-            PX Drive, Decentralized drive
+            PX Drive, decentralized drive
           </h2>
           <p>
             Decentralized service that enables users to store and access files online in a self-custodial and permissionless way. The service syncs stored documents, photos and more across all the user&apos;s devices, that support Web3 wallets.
