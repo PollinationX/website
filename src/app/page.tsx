@@ -49,7 +49,8 @@ export default function Home() {
             W3XShare, decentralized file transfer
           </h2>
           <p>
-            Web3 data file transfer platform. To achieve full immutability and custodianship every data file transfer is represented as an L1 or L2 transaction.
+            Web3 data file transfer platform. To achieve full immutability and custodianship every data file transfer is represented as an L1 or L2 transaction. Build on
+            Immu3 & PollinationX stack.
           </p>
         </a>
         <a
